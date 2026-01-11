@@ -1,0 +1,37 @@
+{
+  "circus": [
+    {
+      "id": "1",
+      "name": "Большой Московский Цирк",
+      "location": "Москва",
+      "capacity": 2000,
+      "hasAnimals": true,
+      "shows": ["Акробатика", "Клоуны", "Дрессированные животные"],
+      "established": "1971-04-30",
+      "isActive": true,
+      "ticketPrice": 1500
+    },
+    {
+      "id": "2",
+      "name": "Цирк на Цветном бульваре",
+      "location": "Москва",
+      "capacity": 1500,
+      "hasAnimals": false,
+      "shows": ["Воздушная гимнастика", "Жонглеры", "Иллюзионисты"],
+      "established": "1880-10-20",
+      "isActive": true,
+      "ticketPrice": 1200
+    },
+    {
+      "id": "3",
+      "name": "Цирк Филатовых",
+      "location": "Санкт-Петербург",
+      "capacity": 1800,
+      "hasAnimals": true,
+      "shows": ["Эквилибристика", "Пантомима", "Экзотические животные"],
+      "established": "1925-03-15",
+      "isActive": false,
+      "ticketPrice": 1000
+    }
+  ]
+}
