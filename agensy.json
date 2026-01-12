@@ -1,0 +1,37 @@
+{
+  "agency": [
+    {
+      "id": "1",
+      "name": "TravelLine",
+      "type": "Туристическое агентство",
+      "employeesCount": 50,
+      "isInternational": true,
+      "services": ["Туры", "Авиабилеты", "Отели", "Страхование"],
+      "founded": "2005-08-10",
+      "isActive": true,
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "name": "EventPro",
+      "type": "Ивент-агентство",
+      "employeesCount": 25,
+      "isInternational": false,
+      "services": ["Корпоративы", "Свадьбы", "Конференции"],
+      "founded": "2010-03-15",
+      "isActive": true,
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "name": "DigitalAgency",
+      "type": "Рекламное агентство",
+      "employeesCount": 100,
+      "isInternational": true,
+      "services": ["SMM", "Контекстная реклама", "Создание сайтов"],
+      "founded": "2015-11-20",
+      "isActive": false,
+      "rating": 4.2
+    }
+  ]
+}
