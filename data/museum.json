@@ -1,0 +1,37 @@
+{
+  "museum": [
+    {
+      "id": "1",
+      "name": "Эрмитаж",
+      "city": "Санкт-Петербург",
+      "exhibitsCount": 3000000,
+      "isFree": false,
+      "categories": ["Живопись", "Скульптура", "Археология"],
+      "openingDate": "1764-02-07",
+      "isOpen": true,
+      "visitorsPerYear": 4500000
+    },
+    {
+      "id": "2",
+      "name": "Третьяковская галерея",
+      "city": "Москва",
+      "exhibitsCount": 150000,
+      "isFree": false,
+      "categories": ["Русская живопись", "Иконы", "Графика"],
+      "openingDate": "1856-05-22",
+      "isOpen": true,
+      "visitorsPerYear": 2000000
+    },
+    {
+      "id": "3",
+      "name": "Пушкинский музей",
+      "city": "Москва",
+      "exhibitsCount": 700000,
+      "isFree": true,
+      "categories": ["Зарубежное искусство", "Графика", "Нумизматика"],
+      "openingDate": "1912-05-31",
+      "isOpen": false,
+      "visitorsPerYear": 1500000
+    }
+  ]
+}

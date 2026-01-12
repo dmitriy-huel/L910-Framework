@@ -1,0 +1,14 @@
+{
+  "name": "L910-framework",
+  "version": "1.0.0",
+  "description": "Минималистичный веб-фреймворк для Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
